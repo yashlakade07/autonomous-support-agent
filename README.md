@@ -41,10 +41,10 @@ The system is divided into three main services:
    docker-compose up --build
 
 4. **Access the Application:**
-   *Frontend UI: http://localhost:8501
-   *API Docs: http://localhost:8000/docs
+   Frontend UI: http://localhost:8501
+   API Docs: http://localhost:8000/docs
 
-🛠️ Technical Stack
+##🛠️ Technical Stack
 * **Orchestration: LangGraph
 
 * **LLM Interface: LangChain / Ollama
