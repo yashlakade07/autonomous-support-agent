@@ -45,24 +45,24 @@ The system is divided into three main services:
    API Docs: http://localhost:8000/docs
 
 ##🛠️ Technical Stack
-* **Orchestration: LangGraph
+* **Orchestration:** LangGraph
 
-* **LLM Interface: LangChain / Ollama
+* **LLM Interface:** LangChain / Ollama
 
-* **API Framework: FastAPI
+* **API Framework:** FastAPI
 
-* **Interface: Streamlit
+* **Interface:** Streamlit
 
-* **Containerization: Docker & Docker Compose
+* **Containerization:** Docker & Docker Compose
 
-* **Database Tooling: MCP (Model Context Protocol)
+* **Database Tooling:** MCP (Model Context Protocol)
 
 📖 How it Works
-* **Triage: The system analyzes the user's message and fetches customer context from the MCP server.
+* **Triage:** The system analyzes the user's message and fetches customer context from the MCP server.
 
-* **Route: If the message is a routine query, it moves to the Resolution Agent. If it's aggressive or complex, it moves to the Escalation Agent.
+* **Route:** If the message is a routine query, it moves to the Resolution Agent. If it's aggressive or complex, it moves to the Escalation Agent.
 
-* **Execute: The chosen agent performs the action (generating a response or flagging for a manager) and updates the ticket status via the MCP toolset.
+* **Execute:** The chosen agent performs the action (generating a response or flagging for a manager) and updates the ticket status via the MCP toolset.
 
 ## 📂 Project Structure
 
