@@ -44,7 +44,7 @@ The system is divided into three main services:
    Frontend UI: http://localhost:8501
    API Docs: http://localhost:8000/docs
 
-##🛠️ Technical Stack
+## 🛠️ Technical Stack
 * **Orchestration:** LangGraph
 
 * **LLM Interface:** LangChain / Ollama
