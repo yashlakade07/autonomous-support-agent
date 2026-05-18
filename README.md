@@ -29,7 +29,7 @@ The system is divided into three main services:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/autonomous-support-agent.git](https://github.com/YOUR_USERNAME/autonomous-support-agent.git)
+   git clone [https://github.com/yashlakade07/autonomous-support-agent.git](https://github.com/yashlakade07/autonomous-support-agent.git)
    cd autonomous-support-agent
 
 2. **Pull the required model:**
