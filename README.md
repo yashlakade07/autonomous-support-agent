@@ -64,6 +64,9 @@ The system is divided into three main services:
 
 * **Execute:** The chosen agent performs the action (generating a response or flagging for a manager) and updates the ticket status via the MCP toolset.
 
+<img width="1536" height="1024" alt="Workflow" src="https://github.com/user-attachments/assets/1d786d45-6de6-4574-aa6d-90c517ded8fa" />
+
+
 ## 📂 Project Structure
 
 ```bash
